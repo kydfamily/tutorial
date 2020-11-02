@@ -5,4 +5,11 @@ squash 4
 squash 5
 squash 6
 squash 7
+<<<<<<< HEAD
 squash 8
+=======
+squash 8
+squash 9
+squash 10
+squash 11
+>>>>>>> feature/#-커밋통합
